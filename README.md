@@ -267,11 +267,12 @@ contact.html
 
 
 ## SKILLS PAGE 
-<img width="1904" height="988" alt="image" src="https://github.com/user-attachments/assets/9ea198f4-3f85-4289-924f-9b0d7450e6a9" />
+<img width="1898" height="989" alt="image" src="https://github.com/user-attachments/assets/5b695191-f7d9-409a-9b46-9722f342da3b" />
 
 
 ## PROJECTS PAGE
 <img width="1896" height="989" alt="image" src="https://github.com/user-attachments/assets/ff4cf3a1-54b6-4eb0-95ad-0f88b8d9f007" />
+
 
 ## CONTACT PAGE
 <img width="1904" height="990" alt="image" src="https://github.com/user-attachments/assets/8881c6c8-e7a0-4b02-9069-04555c4ab0de" />
